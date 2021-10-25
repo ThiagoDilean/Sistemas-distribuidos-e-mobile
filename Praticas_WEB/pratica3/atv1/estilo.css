@@ -1,0 +1,28 @@
+html,
+body {
+  font-size: 16;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+div {
+  width: 20rem;
+  height: 10rem;
+  /*border: 3px solid red;*/
+  margin: 5rem auto;
+  background-image: linear-gradient(to bottom right, orangered, orange);
+  padding: 1rem;
+}
+
+h1 {
+  color: white;
+  padding: 0.5rem;
+  font-size: 1.5rem;
+}
+
+a {
+  color: #b6aefc;
+  padding: 1rem;
+  text-decoration: none;
+  border-radius: 0.5rem;
+  background-image: linear-gradient(to bottom right, blue, #a096fa);
+}
